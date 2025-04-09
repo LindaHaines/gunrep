@@ -1,4 +1,5 @@
 ## Table 6 A-optimal designs
+
 rm(list=ls())
 library(MASS)
 library(gunrep)
