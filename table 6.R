@@ -1,4 +1,4 @@
-# Table 6 A-optimal designs
+## Table 6 A-optimal designs
 rm(list=ls())
 library(MASS)
 library(gunrep)
@@ -75,4 +75,3 @@ abmat=as.matrix(rbind(rbind(
 Ac=gvabd(m,nc,abmat)
 Amet=gac(m,nc,Ac)
 round(c(m,nc,Amet),4)
-
