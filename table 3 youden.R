@@ -28,4 +28,3 @@ acc=2/m
 act=1+1/m+2*nc/(lam*m)
 att=2+4*nc*(m-nc)/((m*(m-nc)-1)*lam)
 round(c(abd,acc,act,att),4)
-
