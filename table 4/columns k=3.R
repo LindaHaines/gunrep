@@ -1,5 +1,6 @@
 # columns for Table 4 k=3
 rm(list=ls())
+
 library(gunrep)
 
 # setting
