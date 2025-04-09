@@ -30,3 +30,4 @@ if(m==26)
   print(c(m,nc,Att))
 }
 
+
